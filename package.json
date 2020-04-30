@@ -18,7 +18,7 @@
     "chartjs-funnel": "^1.0.3",
     "eonasdan-bootstrap-datetimepicker": "^4.17.42",
     "font-awesome": "^4.6.3",
-    "jquery": "2.1.4",
+    "jquery": "3.5.0",
     "jquery-treegrid": "^0.3.0",
     "lodash": "^4.11.1",
     "moment": "^2.15.0",
